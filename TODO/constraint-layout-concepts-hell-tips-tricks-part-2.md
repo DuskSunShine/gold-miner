@@ -1,4 +1,4 @@
-> * 原文地址：[Constraint Layout Concepts ( What the hell is this ) (Tips and Tricks) Part 2 ](http://www.uwanttolearn.com/android/constraint-layout-concepts-hell-tips-tricks-part-2/)
+                           > * 原文地址：[Constraint Layout Concepts ( What the hell is this ) (Tips and Tricks) Part 2 ](http://www.uwanttolearn.com/android/constraint-layout-concepts-hell-tips-tricks-part-2/)
 * 原文作者：[Hafiz Waleed Hussain](http://www.uwanttolearn.com/author/admin/)
 * 译文出自：[掘金翻译计划](https://github.com/xitu/gold-miner)
 * 译者：[Jamweak](https://github.com/jamweak)
@@ -59,7 +59,7 @@
 
 现在我坚信，你能轻易地自己实现水平和垂直居中了。:)
 
-<h6 id="3">3. 怎样将视图从中心向左或右移动一些 DP 值:</h6>
+<h6 id="3">3. 怎样将视图从中心向左或右移动一些 DP 值:
 
 大部分设计师都给我们提过奇怪的需求，比如有人想要一段文字不是 100% 居中的，而是几乎从中心开始的。
 
